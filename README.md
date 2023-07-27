@@ -13,61 +13,36 @@ Para realizar esta pesquisa, foram coletados dados e informações de fontes aca
 *Resultados:*
 
 **1. Bitcoin (BTC):**
-O Bitcoin, como a primeira criptomoedas, é conhecido por seu papel pioneiro nas blockchains. No entanto, enfrentou desafios significativos em termos de escalabilidade e performance. Com sua arquitetura Proof of Work (PoW), o Bitcoin tem uma capacidade limitada de cerca de 7 TPS, o que pode levar a atrasos nas transações durante períodos de alta demanda, como em momentos de grande volatilidade de preços. Fonte: [Bitcoin Scalability Problem - ResearchGate](https://www.researchgate.net/publication/313503768_Bitcoin_Scalability_Problem)
-
-*Gráfico 1: TPS vs. Tempo no Bitcoin*
-(Inserir gráfico que demonstra a taxa de crescimento das transações ao longo do tempo e como isso impactou a TPS do Bitcoin)
+O Bitcoin, como a primeira criptomoeda, é conhecido por seu papel pioneiro nas blockchains. No entanto, enfrentou desafios significativos em termos de escalabilidade e performance. Com sua arquitetura Proof of Work (PoW), o Bitcoin tem uma capacidade limitada de cerca de 7 TPS, o que pode levar a atrasos nas transações durante períodos de alta demanda, como em momentos de grande volatilidade de preços. Fonte: [Bitcoin Scalability Problem - ResearchGate](https://www.researchgate.net/publication/313503768_Bitcoin_Scalability_Problem)
 
 **2. Ethereum (ETH):**
 A Ethereum é conhecida por seu suporte a contratos inteligentes, mas também enfrentou desafios de escalabilidade. Originalmente, com sua arquitetura PoW, a Ethereum enfrentou limitações semelhantes ao Bitcoin em relação à escalabilidade. No entanto, houve esforços para melhorar isso, como a transição para a Ethereum 2.0 com a adoção do Proof of Stake (PoS) e a implementação de soluções de camada 2, como a Lightning Network. Isso aumentou sua capacidade, mas a escalabilidade ainda é um ponto sensível. Fonte: [Ethereum 2.0: Challenges and Opportunities - Cornell University](https://arxiv.org/abs/2001.08966)
 
-*Gráfico 2: TPS na Ethereum ao longo das versões*
-(Inserir gráfico que mostra como a capacidade de TPS da Ethereum evoluiu ao longo do tempo e com a implementação de atualizações importantes)
-
 **3. Binance Smart Chain (BSC):**
-A Binance Smart Chain é uma blockchain paralela à Binance Chain que oferece contratos inteligentes com maior escalabilidade. Ao utilizar um mecanismo de consenso baseado em Delegated Proof of Stake (DPoS), a BSC alcança uma maior taxa de TPS, que pode chegar a mais de 3.000 em comparação com o Ethereum. Fonte: [Binance Smart Chain Overview - Binance Academy](https://academy.binance.com/pt/articles/binance-smart-chain-guide)
-
-*Gráfico 3: Comparação de TPS entre Ethereum e Binance Smart Chain*
-(Inserir gráfico que compara o desempenho das duas blockchains em termos de TPS, destacando a superioridade da BSC)
+A Binance Smart Chain é uma blockchain paralela à Binance Chain que oferece contratos inteligentes com maior escalabilidade. Ao utilizar um mecanismo de consenso baseado em Delegated Proof of Stake (DPoS), a BSC alcança uma maior taxa de TPS, que pode chegar a mais de 3.000 em comparação com o Ethereum. Fonte: [An Introduction to Binance Smart Chain (BSC) - Binance Academy](https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc)
 
 **4. Solana (SOL):**
-Solana é uma blockchain de alto desempenho que se destaca por sua escalabilidade. Utilizando um mecanismo de consenso Proof of History (PoH) combinado com o Proof of Stake (PoS), a Solana consegue atingir uma impressionante taxa de mais de 65.000 TPS. Fonte: [Anatomy of Proof of History - Solana](https://solana.com/anatomy-of-poh)
-
-*Gráfico 4: TPS na Solana em comparação com outras blockchains*
-(Inserir gráfico que destaca a escalabilidade excepcional da Solana em comparação com outras blockchains populares)
+Solana é uma blockchain de alto desempenho que se destaca por sua escalabilidade. Com um mecanismo de consenso inovador chamado Proof of History (PoH), Solana consegue atingir uma taxa impressionante de mais de 65.000 TPS, tornando-a uma das blockchains mais rápidas e eficientes em termos de processamento de transações. Fonte: [Solana TPS - CoinCodex](https://coincodex.com/article/24666/solana-tps/)
 
 **5. Optimism (OPP):**
-A Optimism é uma solução de escalonamento para Ethereum, baseada na tecnologia de rollups. Ela busca aumentar a escalabilidade da rede Ethereum, permitindo um maior número de transações por segundo e reduzindo as taxas de transação. Através da agregação de várias transações em um único rollup, a Optimism melhora a eficiência e o desempenho da rede Ethereum. Fonte: [Optimism Rollups - Optimism](https://optimism.io/rollups)
+A Optimism é uma solução de escalonamento para Ethereum, baseada na tecnologia de rollups. Ela busca aumentar a escalabilidade da rede Ethereum, permitindo um maior número de transações por segundo e reduzindo as taxas de transação. Através da agregação de várias transações em um único rollup, a Optimism melhora a eficiência e o desempenho da rede Ethereum. Fonte: [Optimistic Rollups - Ethereum.org](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)
 
-*Gráfico 5: Desempenho da Optimism Rollups no Ethereum*
-(Inserir gráfico que ilustra a melhoria na performance e escalabilidade da Ethereum através da utilização da solução de rollups da Optimism)
+**6. "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain":**
+Este artigo publicado no site "news.bitcoin.com" destaca a questão da escalabilidade exagerada em algumas alegações sobre as capacidades das blockchains. Ele aborda como algumas pessoas superestimam a capacidade de processamento de certas blockchains, incluindo o Bitcoin. O artigo ressalta que as alegações de 24.000 TPS não são suportadas por evidências reais e destaca a importância de analisar dados confiáveis ao avaliar a escalabilidade das blockchains.
+
+**Diferença entre Métodos de Consenso:**
+Uma das principais influências na escalabilidade e performance de uma blockchain é o método de consenso utilizado. O Bitcoin e a Ethereum, por exemplo, utilizam o Proof of Work (PoW), onde os mineradores competem para resolver complexos problemas matemáticos para adicionar novos blocos à cadeia. Embora seja robusto e seguro, o PoW tem uma capacidade limitada de processar apenas algumas dezenas de TPS.
+
+Já a Binance Smart Chain e a Solana adotam um método de consenso baseado em Delegated Proof of Stake (DPoS) e Proof of History (PoH) combinado com Proof of Stake (PoS), respectivamente. Esses mecanismos permitem maior escalabilidade, pois os validadores são selecionados democraticamente para criar blocos e confirmar transações, o que aumenta a capacidade de processamento.
+
+A Optimism, por sua vez, implementa rollups para melhorar a escalabilidade da Ethereum. Rollups agregam várias transações em um único pacote, reduzindo a carga na blockchain principal e permitindo um maior número de transações por segundo.
 
 **Discussão e Análise:**
-A correlação entre escalabilidade e performance nas blockchains é crucial para o sucesso e adoção em larga escala dessas tecnologias. Os resultados da pesquisa demonstraram que blockchains com maior capacidade de escalabilidade geralmente apresentam melhor desempenho em termos de processamento de transações por segundo (TPS).
+O método de consenso utilizado por uma blockchain tem um impacto significativo na sua escalabilidade e performance. Blockchains baseadas em PoW, como o Bitcoin, enfrentam limitações de escalabilidade, enquanto aquelas que adotam DPoS, PoS ou rollups, como a Binance Smart Chain, a Solana e a Optimism, apresentam melhorias na capacidade de processamento de transações.
 
-O Bitcoin, como a primeira blockchain, enfrentou limitações de escalabilidade devido à sua arquitetura PoW. A Ethereum, também baseada em PoW, teve desafios semelhantes, mas buscou melhorias com a adoção do PoS e a implementação de soluções de camada 2, como a Lightning Network. A Binance Smart Chain e a Solana, com seus mecanismos de consenso mais eficientes, alcançaram maior escalabilidade e, consequentemente, uma melhor performance em transações.
+Ao relacionar os resultados da pesquisa com o artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain", é importante considerar como as
 
-A inclusão da Optimism, uma solução de rollups para a Ethereum, demonstra como a tecnologia está constantemente evoluindo para enfrentar os desafios de escalabilidade. Através da agregação de várias transações em um único rollup, a Optimism busca melhorar significativamente a eficiência e o desempenho da rede Ethereum.
+ alegações exageradas sobre a capacidade de escalabilidade das blockchains podem ser influenciadas pelo método de consenso escolhido.
 
 *Conclusão:*
-A correlação entre escalabilidade e performance das blockchains é evidente. Conforme as blockchains evoluíram ao longo do tempo, diversas soluções e abordagens foram desenvolvid
-
-as para enfrentar o desafio da escalabilidade e melhorar a performance em transações. Blockchains como a Solana e a Binance Smart Chain têm demonstrado maior capacidade de processamento de TPS em comparação com as abordagens mais tradicionais do Bitcoin e Ethereum.
-
-À medida que a tecnologia blockchain avança, novas soluções como a Optimism continuam a impulsionar a escalabilidade e melhorar o desempenho das transações. No entanto, é importante lembrar que a escalabilidade não deve ser alcançada sacrificando a descentralização e a segurança da blockchain. Encontrar um equilíbrio entre escalabilidade e segurança é essencial para o sucesso contínuo das blockchains em aplicações do mundo real.
-
-**Referências:**
-
-1. S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System," Bitcoin.org, 2008. [Link](https://bitcoin.org/bitcoin.pdf)
-
-2. C. Buterin, "Ethereum White Paper: A Next-Generation Smart Contract & Decentralized Application Platform," Ethereum.org, 2013. [Link](https://ethereum.org/en/whitepaper/)
-
-3. T. Chen, "Anatomy of Proof of History," Solana, 2021. [Link](https://solana.com/anatomy-of-poh)
-
-4. T. V. Nguyen, et al., "Bitcoin Scalability Problem: A Comprehensive Study," ResearchGate, 2017. [Link](https://www.researchgate.net/publication/313503768_Bitcoin_Scalability_Problem)
-
-5. Y. He, et al., "Ethereum 2.0: Challenges and Opportunities," Cornell University, 2020. [Link](https://arxiv.org/abs/2001.08966)
-
-6. Binance Academy, "Binance Smart Chain Overview," Binance Academy. [Link](https://academy.binance.com/pt/articles/binance-smart-chain-guide)
-
-7. Optimism, "Optimism Rollups," Optimism. [Link](https://optimism.io/rollups)
+A correlação entre escalabilidade e performance das blockchains está diretamente relacionada ao método de consenso utilizado. A pesquisa mostra que blockchains com mecanismos de consenso mais eficientes, como DPoS, PoS ou rollups, geralmente apresentam melhor desempenho em termos de processamento de transações por segundo (TPS). Enquanto isso, o artigo destaca a importância de ser cauteloso ao avaliar a capacidade de escalabilidade das blockchains, especialmente quando há alegações exageradas e não fundamentadas. À medida que a tecnologia blockchain evolui, encontrar um equilíbrio entre escalabilidade e segurança é essencial para o sucesso contínuo dessas tecnologias em aplicações do mundo real.
