@@ -10,8 +10,12 @@ As blockchains têm ganhado crescente relevância e popularidade, especialmente 
 
 - **Tempo de Transação:** É o período necessário para que uma transação seja confirmada e incluída em um bloco na blockchain. Esse tempo pode variar de acordo com a blockchain e depende de fatores como o algoritmo de consenso utilizado e a carga atual da rede. Algumas blockchains possuem tempos de transação rápidos, levando apenas alguns segundos, enquanto outras, especialmente em períodos de alta atividade, podem levar mais tempo para confirmar as transações.
 
+
+
 ## Método:
 Esta pesquisa baseia-se em dados e informações coletadas de fontes acadêmicas confiáveis, relatórios técnicos, estudos de caso, do blog da Phemex e do artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain" publicado no site "news.bitcoin.com", que aborda a questão da escalabilidade de blockchains em comparação com sistemas de pagamento tradicionais.
+
+
 
 ## Resultados:
 
@@ -33,8 +37,12 @@ A Optimism é uma solução de escalonamento para a Ethereum baseada em tecnolog
 ### 6. Ripple (XRP):
 A Ripple é uma blockchain focada em pagamentos e remessas internacionais. Com seu mecanismo de consenso chamado Algoritmo de Consenso do Protocolo Ripple (RPCA), o XRP Ledger alcança uma notável escalabilidade, com uma capacidade de mais de 1.500 TPS. O tempo médio de confirmação das transações na Ripple é de apenas 4 segundos, tornando-a uma das blockchains mais rápidas em termos de tempo de transação. Fonte: [The XRP Ledger and Consensus Algorithm - Ripple](https://ripple.com/xrp/)
 
+
+
 ## Phemex Blog. (2021). What is Transactions Per Second (TPS).
 O blog da Phemex explica o conceito de "Transactions Per Second" (TPS) e sua importância na avaliação do desempenho das blockchains. O TPS representa o número de transações que uma blockchain pode processar por segundo e é uma métrica crucial para avaliar a escalabilidade e o desempenho. Um TPS mais elevado geralmente indica maior capacidade de processamento de transações e tempos de confirmação mais rápidos, enquanto um TPS mais baixo pode levar a congestionamentos e atrasos em momentos de alta demanda. O blog também enfatiza que o TPS é influenciado pelo mecanismo de consenso e pela arquitetura técnica da blockchain. Fonte: [Phemex Blog - What is Transactions Per Second (TPS)](https://phemex.com/blogs/what-is-transactions-per-second-tps)
+
+
 
 ## Métodos de Consenso:
 A forma como as transações são validadas e incluídas na blockchain é determinada pelo método de consenso utilizado pela rede. Abaixo estão alguns dos métodos de consenso mais comuns:
@@ -101,33 +109,18 @@ S, pois as testemunhas são responsáveis por criar blocos, reduzindo a competi�
 ## Relação com o Artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain":
 O artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain" do site "news.bitcoin.com" destaca a questão da escalabilidade de blockchains e comparações enganosas com sistemas de pagamento tradicionais, como o Visa. O texto ressalta a importância de analisar dados reais e fontes confiáveis ao avaliar as capacidades das blockchains. Essa análise crítica é relevante para o projeto de pesquisa, pois reforça a necessidade de abordar com cautela a escalabilidade e desempenho das blockchains em transações. Além disso, o artigo destaca como informações enganosas podem levar a expectativas irrealistas e desconfiança em relação a essa tecnologia.
 
-## Discussão e Análise:
-Ao analisar os resultados da pesquisa, fica claro que a escalabilidade, desempenho e tempo de trans
-
-ação são elementos interligados nas blockchains. A escalabilidade é um fator crítico para permitir o aumento da adoção e uso em larga escala. Os diferentes métodos de consenso têm impactos significativos na escalabilidade, com a Prova de Trabalho apresentando limitações em relação à competição e ao alto consumo energético, enquanto o Prova de Participação e Prova de Participação Delegada oferecem maior eficiência energética e escalabilidade.
-
-O desempenho, medido em TPS, é fundamental para a viabilidade das blockchains em aplicações do mundo real. A utilização de soluções de segunda camada, como Rollups e a Lightning Network, pode aumentar a capacidade de processamento da rede principal e reduzir as taxas de transação, tornando as blockchains mais práticas para transações diárias.
-
-O tempo de transação é influenciado pelo método de consenso e pela capacidade de escalabilidade. Blockchains com tempos de transação mais rápidos, como o XRP Ledger da Ripple, podem ser mais adequadas para aplicações financeiras, onde velocidade e confirmação rápida são essenciais.
-
-## Conclusão:
-A pesquisa sobre a correlação entre escalabilidade, desempenho e tempo de transação das blockchains é essencial para entender a viabilidade e eficiência dessa tecnologia em diversos cenários de uso. A escalabilidade é crucial para a adoção em massa, e métodos de consenso eficientes podem oferecer soluções para os desafios de escalabilidade e desempenho.
-
-A Prova de Trabalho, Prova de Participação e Prova de Participação Delegada são alguns dos métodos de consenso mais comuns, cada um com suas vantagens e desvantagens. Soluções de segunda camada, como Rollups e a Lightning Network, apresentam-se como alternativas promissoras para melhorar a escalabilidade das blockchains.
-
-Em um mundo em constante evolução, entender a relação entre escalabilidade, desempenho e tempo de transação é fundamental para garantir que as blockchains possam atender às necessidades de diversas aplicações e contribuir para uma revolução na forma como realizamos transações e interagimos digitalmente.
-
-## Relação com o Artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain":
-O artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain" do site "news.bitcoin.com" destaca a questão da escalabilidade de blockchains e comparações enganosas com sistemas de pagamento tradicionais, como o Visa. O texto ressalta a importância de analisar dados reais e fontes confiáveis ao avaliar as capacidades das blockchains. Essa análise crítica é relevante para o projeto de pesquisa, pois reforça a necessidade de abordar com cautela a escalabilidade e desempenho das blockchains em transações. Além disso, o artigo destaca como informações enganosas podem levar a expectativas irrealistas e desconfiança em relação a essa tecnologia.
-
-## Discussão e Análise:
-Ao analisar os resultados da pesquisa, fica claro que a escalabilidade, desempenho e tempo de transação estão intimamente relacionados. Blockchains com mecanismos de consenso mais eficientes e escaláveis tendem a ter maior capacidade de processamento de transações por segundo e tempos de confirmação mais curtos. O Bitcoin e a Ethereum, por exemplo, enfrentam desafios em relação à escalabilidade, enquanto blockchains como a Binance Smart Chain, Ripple, Solana e Optimism adotam mecanismos de consenso mais eficientes e alcançam maior escalabilidade e desempenho.
 
 ## Impacto da Desinformação:
 É essencial considerar o impacto da desinformação ao analisar as capacidades das blockchains em relação à escalabilidade e desempenho. O artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain" destaca como informações enganosas podem levar a expectativas irrealistas e desconfiança em relação a essa tecnologia.
 
+## Discussão e Análise:
+As informações dos dois tópicos repetidos estão relacionadas à análise da correlação entre escalabilidade, desempenho e tempo de transação nas blockchains. A escalabilidade é um elemento crítico para permitir a adoção em massa e o uso em larga escala das blockchains. Diferentes métodos de consenso têm impactos significativos na escalabilidade, com a Prova de Trabalho apresentando limitações em relação à competição e ao alto consumo energético, enquanto o Prova de Participação e Prova de Participação Delegada oferecem maior eficiência energética e escalabilidade.
+Além disso, o desempenho, medido em TPS (transações por segundo), é fundamental para a viabilidade das blockchains em aplicações do mundo real. A utilização de soluções de segunda camada, como Rollups e a Lightning Network, pode aumentar a capacidade de processamento da rede principal e reduzir as taxas de transação, tornando as blockchains mais práticas para transações diárias.
+O tempo de transação é influenciado pelo método de consenso e pela capacidade de escalabilidade. Blockchains com tempos de transação mais rápidos, como o XRP Ledger da Ripple, podem ser mais adequadas para aplicações financeiras, onde velocidade e confirmação rápida são essenciais.
+O artigo "No, Visa Doesn't Handle 24,000 TPS and Neither Does Your Pet Blockchain" destaca a importância de analisar dados reais e fontes confiáveis ao avaliar as capacidades das blockchains e alerta para o impacto da desinformação, que pode levar a expectativas irrealistas e desconfiança em relação a essa tecnologia.
+
 ## Conclusão:
-A correlação entre escalabilidade, desempenho e tempo de transação é essencial para avaliar a viabilidade das blockchains em diversos cenários de uso. O desenvolvimento contínuo de soluções inovadoras, como mecanismos de consenso mais eficientes e otimização de camadas de escalabilidade, continuará a impulsionar a evolução das blockchains, tornando-as mais eficientes e versáteis para atender às necessidades do futuro. A capacidade de processar transações de forma rápida, segura e eficiente é fundamental para a adoção em massa das blockchains e sua aplicação em diversos setores.
+A correlação entre escalabilidade, desempenho e tempo de transação é essencial para avaliar a viabilidade das blockchains em diversos cenários de uso. O desenvolvimento contínuo de soluções inovadoras, como mecanismos de consenso mais eficientes e otimização de camadas de escalabilidade, continuará a impulsionar a evolução das blockchains, tornando-as mais eficientes e versáteis para atender às necessidades do futuro. A capacidade de processar transações de forma rápida, segura e eficiente é fundamental para a adoção em massa das blockchains e sua aplicação em diversos setores. É crucial abordar com cautela a escalabilidade e o desempenho das blockchains em transações e considerar o impacto da desinformação na compreensão correta das capacidades dessa tecnologia.
 
 ## Bibliografia:
 1. Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. [Disponível em: https://bitcoin.org/bitcoin.pdf]
